@@ -1,0 +1,9 @@
+openai
+mysql-connector-python
+python-dotenv
+Pillow
+Flask 
+streamlit-webrtc>=0.47.0
+pyzbar>=0.1.9
+opencv-python-headless>=4.9.0
+av>=11.0.0

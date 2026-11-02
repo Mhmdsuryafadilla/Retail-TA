@@ -1,0 +1,130 @@
+no,barcode,produk_ditemukan,pertanyaan_dipakai,faithfulness,answer_relevancy
+1,-,True,Berapa harga Aqua Botol dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.8,0.759
+2,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+3,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+4,-,True,Berapa harga Aqua Botol dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.7,0.69
+5,-,True,Berapa harga Aqua Botol dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.923,0.763
+6,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+7,-,True,Berapa harga Aqua Botol dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.882,0.74
+8,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+9,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+10,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+11,-,True,Berapa harga Aqua Botol dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.75,0.722
+12,-,True,Berapa harga Indomie Rasa Kari Ayam dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.905,0.763
+13,-,True,Berapa harga Indomie Rasa Kari Ayam dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.684,0.744
+14,-,True,Berapa harga Indomie Rasa Kari Ayam dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.75,0.763
+15,-,True,Berapa harga Indomie Rasa Kari Ayam dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.75,0.763
+16,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+17,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+18,-,True,Berapa harga Indomie Rasa Kari Ayam dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.75,0.744
+19,-,True,Berapa harga Indomie Rasa Kari Ayam dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.688,0.763
+20,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+21,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+22,-,True,Berapa harga Nutrisari Jeruk Nipis dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.684,0.0
+23,-,True,Berapa harga Nutrisari Jeruk Nipis dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.65,0.0
+24,-,True,Berapa harga Nutrisari Jeruk Nipis dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.625,0.0
+25,-,True,Berapa harga Nutrisari Jeruk Nipis dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.706,0.0
+26,-,True,Berapa harga Nutrisari Jeruk Nipis dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.762,0.0
+27,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+28,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+29,-,True,Berapa harga Nutrisari Jeruk Nipis dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.667,0.0
+30,-,True,Berapa harga Nutrisari Jeruk Nipis dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.722,0.0
+31,-,True,Berapa harga Nutrisari Jeruk Nipis dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.75,0.0
+32,-,True,Berapa harga Nutrisari Jeruk Nipis dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.8,0.0
+33,-,True,Berapa harga Ultra Milk Full Cream dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.759,0.787
+34,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+35,-,True,Berapa harga Ultra Milk Full Cream dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.591,0.802
+36,-,True,Berapa harga Ultra Milk Full Cream dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.833,0.744
+37,-,True,Berapa harga Ultra Milk Full Cream dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.788,0.774
+38,-,True,Berapa harga Ultra Milk Full Cream dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.826,0.802
+39,-,True,Berapa harga Ultra Milk Full Cream dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.593,0.787
+40,-,True,Berapa harga Ultra Milk Full Cream dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.769,0.0
+41,-,True,Berapa harga Ultra Milk Full Cream dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.87,0.788
+42,-,True,Berapa harga Ultra Milk Full Cream dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.955,0.774
+43,-,True,Berapa harga Ultra Milk Full Cream dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.654,0.777
+44,-,True,Berapa harga Ultra Milk Full Cream dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.862,0.766
+45,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+46,-,True,Berapa harga Kecap Manis dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.789,0.702
+47,-,True,Berapa harga Kecap Manis dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.857,0.699
+48,-,True,Berapa harga Kecap Manis dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.828,0.671
+49,-,True,Berapa harga Kecap Manis dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.88,0.0
+50,-,True,Berapa harga Kecap Manis dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.913,0.671
+51,-,True,Berapa harga Kecap Manis dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.9,0.688
+52,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+53,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+54,-,True,Berapa harga Kecap Manis dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.696,0.681
+55,-,True,Berapa harga Kecap Manis dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.818,0.699
+56,-,True,Berapa harga Qtela Rumput Laut dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.88,0.646
+57,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+58,-,True,Berapa harga Qtela Rumput Laut dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.875,0.64
+59,-,True,Berapa harga Qtela Rumput Laut dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.769,0.64
+60,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+61,-,True,Berapa harga Qtela Rumput Laut dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.571,0.64
+62,-,True,Berapa harga Qtela Rumput Laut dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.935,0.657
+63,-,True,Berapa harga Qtela Rumput Laut dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.714,0.691
+64,-,True,Berapa harga Qtela Rumput Laut dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.955,0.646
+65,-,True,Berapa harga Qtela Rumput Laut dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,1.0,0.64
+66,-,True,Berapa harga Cimory Yogurt Bites Blueberry dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.778,0.833
+67,-,True,Berapa harga Cimory Yogurt Bites Blueberry dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.909,0.833
+68,-,True,Berapa harga Cimory Yogurt Bites Blueberry dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.833,0.813
+69,-,True,Berapa harga Cimory Yogurt Bites Blueberry dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.88,0.813
+70,-,True,Berapa harga Cimory Yogurt Bites Blueberry dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.759,0.833
+71,-,True,Berapa harga Cimory Yogurt Bites Blueberry dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.889,0.798
+72,-,True,Berapa harga Cimory Yogurt Bites Blueberry dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.833,0.833
+73,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+74,-,True,Berapa harga Cimory Yogurt Bites Blueberry dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.92,0.833
+75,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+76,-,True,Berapa harga Cimory Yogurt Bites Blueberry dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.852,0.819
+77,-,True,Berapa harga Frisian Flag Primamil dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.85,0.676
+78,-,True,Berapa harga Pocari Sweat dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.56,0.649
+79,-,True,Berapa harga Pocari Sweat dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.731,0.635
+80,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+81,-,True,Berapa harga Pocari Sweat dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.692,0.658
+82,-,True,Berapa harga Pocari Sweat dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.821,0.658
+83,-,True,Berapa harga Pocari Sweat dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.85,0.641
+84,-,True,Berapa harga Pocari Sweat dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.56,0.661
+85,-,True,Berapa harga Pocari Sweat dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.741,0.658
+86,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+87,-,True,Berapa harga Pocari Sweat dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.609,0.641
+88,-,True,Berapa harga ABC Sardines dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.84,0.766
+89,-,True,Berapa harga ABC Sardines dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.733,0.795
+90,-,True,Berapa harga ABC Sardines dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.92,0.735
+91,-,True,Berapa harga ABC Sardines dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.759,0.718
+92,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+93,-,True,Berapa harga ABC Sardines dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.808,0.736
+94,-,True,Berapa harga ABC Sardines dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.652,0.761
+95,-,True,Berapa harga ABC Sardines dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.68,0.761
+96,-,True,Berapa harga ABC Sardines dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.76,0.771
+97,-,True,Berapa harga ABC Sardines dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.783,0.739
+98,-,True,Berapa harga Oreo Original (vanilla) dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.88,0.688
+99,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+100,-,True,Berapa harga Oreo Original (vanilla) dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.909,0.689
+101,-,True,Berapa harga Oreo Original (vanilla) dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.792,0.722
+102,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+103,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+104,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+105,-,True,Berapa harga Oreo Original (vanilla) dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.739,0.729
+106,-,True,Berapa harga Oreo Original (vanilla) dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.762,0.78
+107,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+108,-,True,Berapa harga Roma Marie Gold dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.6,0.663
+109,-,True,Berapa harga Roma Marie Gold dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.759,0.674
+110,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+111,-,True,Berapa harga Roma Marie Gold dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.708,0.689
+112,-,True,Berapa harga Roma Marie Gold dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.68,0.647
+113,-,True,Berapa harga Roma Marie Gold dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.815,0.664
+114,-,True,Berapa harga Roma Marie Gold dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.75,0.689
+115,-,True,Berapa harga Roma Marie Gold dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.759,0.689
+116,-,False,,N/A - produk tidak ditemukan,N/A - produk tidak ditemukan
+117,-,True,Berapa harga Roma Marie Gold dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.667,0.689
+118,-,True,Berapa harga Roma Marie Gold dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.857,0.673
+119,-,True,Berapa harga Nescafe Ice Black dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.8,0.763
+120,-,True,Berapa harga Nescafe Ice Black dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.917,0.73
+121,-,True,Berapa harga Nescafe Ice Black dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.87,0.698
+122,-,True,Berapa harga Nescafe Ice Black dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.905,0.73
+123,-,True,Berapa harga Nescafe Ice Black dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.895,0.735
+124,-,True,Berapa harga Nescafe Ice Black dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.846,0.756
+125,-,True,Berapa harga Nescafe Ice Black dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.889,0.734
+126,-,True,Berapa harga Nescafe Ice Black dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.833,0.738
+127,-,True,Berapa harga Nescafe Ice Black dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.846,0.698
+128,-,True,Berapa harga Nescafe Ice Black dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.92,0.785
+129,-,True,Berapa harga Nescafe Ice Black dan apakah produk ini worth dibeli dibanding produk sejenis lainnya?,0.913,0.707

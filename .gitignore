@@ -1,0 +1,16 @@
+# Configuration
+config.py
+
+# Environment variables
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Evaluation logs
